@@ -2,7 +2,7 @@ module.exports = {
   "ALIVE_IMG": "https://files.catbox.moe/wssocv.jpg",
   "PREFIX": ".",
   "AUTO_READ_STATUS": true,
-  "MODE": "public",
+  "MODE": "private",
   "BOT_NUMBER": "94783443503",
   "OMDB_API_KEY": "76cb7f39",
   "READ_CMD": true,
