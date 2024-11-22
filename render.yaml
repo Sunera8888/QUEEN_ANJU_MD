@@ -1,11 +1,10 @@
 services:
   - type: web
     plan: free
-    name: queen-anju-md
+    name: sadew-md
     runtime: docker
     region: Frankfurt
     branch: V-2.00
-    repo: https://github.com/Mrrashmika/QUEEN_ANJU_MD
     #buildCommand: |
     #  apt-get update && \
     #  apt-get install -y ffmpeg && \
